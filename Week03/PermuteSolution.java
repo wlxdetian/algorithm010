@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+*全排列
+**/
+
 public class PermuteSolution {
 
     public List<List<Integer>> permute(int[] nums) {

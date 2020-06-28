@@ -1,6 +1,9 @@
 import java.util.LinkedList;
 import java.util.List;
 
+/**
+*77 组合
+**/
 public class CombineSolution {
 
     public List<List<Integer>> combine(int n, int k) {
